@@ -36,4 +36,4 @@ Feel free to explore the folders and contribute to the projects. Your contributi
 
 Parimal Autade  
 Connect with me on [LinkedIn](https://www.linkedin.com/in/parimalautade)  
-Email: parimalautade@gmail.com
+Email: parimalautade23@gmail.com
