@@ -1,0 +1,12 @@
+-- Common Table Expression :(CTE) -
+-- Temporary names result set created  from a simple select statement , we can define cte by adding CTE #WITH Clause.
+use college;
+-- Create cte of students2 table:
+select *from students2;
+WITH StudentCTE AS (
+    SELECT id, name, newage
+    FROM students2
+    WHERE newage =20
+)
+SELECT name
+FROM StudentCTE;
