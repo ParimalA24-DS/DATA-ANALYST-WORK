@@ -27,6 +27,20 @@ call college.course_info();
  begin
  SELECT id  from emp where name=p_name;
  end $$
- 
+ CALL get_empid('bob');  #102
+ -- out : return result in variable form 
+ delimiter $$
+ create procedure get_sum_students1(in p_name varchar(50), out p_sum int)    #input from user
+ begin
+ SELECT sum(newage) into p_sum from students2 
+ where name=p_name;
+ end $$ 
+ -- CALL 
+  set @p_sum = 0;
+call college.get_sum_students('asha', @p_sum);
+select @p_sum;
+-- ---------------------------------
+-- Drop procedure 
+DROP PROCEDURE IF EXISTS get_sum_students1;
+DROP PROCEDURE IF EXISTS get_sum_students;
 
- 
