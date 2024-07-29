@@ -213,3 +213,140 @@ ORDER BY avg_rating DESC;
 -- line showing "Good", "Bad". Good if its greater than average sales?  
 
 -- PRDUCT RELATED QUESTIONS DONE --------------------------
+
+-- --------------------------------------------------------------------
+-- --------------------------------------------------------------------
+-- - -------------------------- III.Sales:Related questions ------------
+-- --------------------------------------------------------------------
+-- 1. Number of sales made in each time of the day per weekday?
+ SELECT *from Sales;
+ SELECT time_of_day ,
+ count(*) as total_sales
+ FROM sales 
+GROUP BY time_of_day 
+ORDER BY total_sales DESC;  
+-- Evening experience most sales than afternnon and morning 
+-- and 
+SELECT
+	time_of_day,
+	COUNT(*) AS total_sales
+FROM sales
+WHERE day_name = "Sunday"
+GROUP BY time_of_day 
+ORDER BY total_sales DESC;  #on sunday afternnon time more sales
+
+ -- 2. -- Which of the customer types brings the most revenue?
+ SELECT
+	customer_type,
+	SUM(total) AS total_revenue
+FROM sales
+GROUP by customer_type
+ORDER BY total_revenue DESC; 
+-- MEMBER gives more revenue ,not significant difference 
+
+-- 3. Which city has the largest tax/VAT percent?
+SELECT
+	city,
+    ROUND(AVG(tax_pct), 2) AS avg_tax_pct
+FROM sales
+GROUP BY city 
+ORDER BY avg_tax_pct DESC;
+
+-- 4. - Which customer type pays the most in VAT?
+SELECT
+	customer_type,
+	AVG(tax_pct) AS total_tax
+FROM sales
+GROUP BY customer_type
+ORDER BY total_tax DESC;
+
+-- Sales related questions end  -------------------------------
+-- --------------------------------------------------------------------
+-- --------------------------------------------------------------------
+-- --------------------------------------------------------------------
+-- - -------------------------- IV.Customers:Related questions ------------
+-- ---------------------------------------------------------------------
+-- 1.How many unique customer types does the data have?
+SELECT distinct customer_type 
+FROM SALES; #
+-- 2 TYPES : Member & Normal 
+
+-- 2.How many unique payment methods does the data have?
+SELECT DISTINCT payment FROM SALES; 
+-- 3types of unique payemnts 
+
+-- 3. What is the most common customer type?
+SELECT
+	customer_type,
+	count(*) as count_common
+FROM sales
+GROUP BY customer_type
+ORDER BY count_common DESC;
+-- Most common customers are :Member type 
+
+-- 4. Which customer type buys the most?
+SELECT
+	customer_type,
+    COUNT(*)
+FROM sales
+GROUP BY customer_type ;
+
+-- 5.  What is the gender of most of the customers?
+SELECT
+	gender,
+	COUNT(*) as gender_cnt
+FROM sales
+GROUP BY gender
+ORDER BY gender_cnt DESC;  #MALE
+
+-- 6.  What is the gender distribution per branch?
+SELECT
+	gender,
+	COUNT(*) as gender_cnt
+FROM sales
+WHERE branch = "C"
+GROUP BY gender
+ORDER BY gender_cnt DESC;
+
+-- 7. Which time of the day do customers give most ratings?
+SELECT
+	time_of_day,
+	AVG(rating) AS avg_rating
+FROM sales
+GROUP BY time_of_day
+ORDER BY avg_rating DESC;  
+-- At morning time customer rating little more not too much differences,
+--  Looks like time of the day does not really affect the rating
+
+-- 8. Which time of the day do customers give most ratings per branch?
+SELECT time_of_day ,
+branch ,
+avg(rating) as avg_ratings
+FROM sales
+ WHERE branch = "B"
+GROUP BY time_of_day
+ORDER BY avg_ratings DESC;
+-- Branch A and C are doing well in ratings, branch B needs to do a 
+-- little more to get better ratings.
+
+-- 9. Which day fo the week has the best avg ratings?
+SELECT
+	day_name,
+	AVG(rating) AS avg_rating
+FROM sales
+GROUP BY day_name 
+ORDER BY avg_rating DESC;
+-- SUN, Saturday and Friday are the top best days for good ratings
+-- why is that the case, how many sales are made on these days?
+
+-- - Which day of the week has the best average ratings per branch?
+SELECT 
+	day_name,
+	COUNT(day_name) total_sales
+FROM sales
+WHERE branch = "B"
+GROUP BY day_name
+ORDER BY total_sales DESC;
+-- Sunday &Saturday has more salesof C branch 
+-- Sunday &friday  has more sales of A branch 
+-- Only on Friday B branch has  sales more . 
