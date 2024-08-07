@@ -1,0 +1,24 @@
+##Microsoft Excel Important
+###Interview Questions & Answers 
+     Part 1
+1.		What is a pivot table? 
+A. A pivot table in Excel is a data processing tool used to summarize, analyze, and present la rge datasets in a more manageable format. It allows users to rearrange and aggregate data, making it easier to draw insights and identify patterns.
+2.	How do you sort data in Excel? 
+A.To sort data in Excel, select the range of cells you want to sort and then go to the “Data” tab. Click on the “Sort” button and choose the column by which you want to sort the data. You can specify whether to sort in ascending or descending order
+3.	How do you apply conditional formatting in Excel?
+ A. Conditional formatting in Excel allows you to format cells based on specific conditions. Select the range, go to the “Home” tab, and choose “Conditional Formatting.” You can then set rules to format cells based on values, formulas, or other criteria.
+4.	How do you freeze rows and columns in Excel? 
+A. To freeze rows and columns in Excel, select the cell below and to the right of the rows and columns you want to freeze. Then, go to the “View” tab and click on “Freeze Panes.” This keeps the selected rows and columns visible while scrolling through the rest of the worksheet.
+5.	How do you remove duplicates in Excel? 
+A. To remove duplicates in Excel, select the range containing duplicate data, go to the “Data” tab, and click on “Remove Duplicates.” You can then choose the columns to check for duplicates, and Excel will remove any duplicate values
+6
+	What is the ‘Pivot Chart’ in Excel? 
+A. A Pivot Chart in Excel is a graphical representation of data created from a PivotTable. It allows users to visualize and analyze data dynamically. You can create a Pivot Chart by first creating a PivotTable, selecting the data fields you want to analyze, and then inserting a chart from the PivotTable.
+7.	What is ‘Flash Fill’ in Excel?
+ A. ‘Flash Fill’ in Excel is a feature that automatically fills in values in a column based on patterns it recognizes in adjacent columns. It is particularly useful for cleaning and transforming data. To use Flash Fill, start typing a pattern in an adjacent column, and Excel will suggest a fill operation that you can accept.
+8.	What is a cell reference?
+ A. A cell reference in Excel is a combination of the column letter and row number that uniquely identifies a cell. For example, “B1” refers to the cell in column B and row 1. Cell references are used in formulas to perform calculations based on the values in specific cells.
+9.	How do you merge cells in Excel? 
+A. To merge cells in Excel, select the range of cells you want to merge, right-click, and choose “Merge & Center” from the context menu. This combines the selected cells into one, and the content is centered within the merged cell.
+10.	How do you create a chart in Excel? 
+A. Creating a chart in Excel involves selecting the data you want to visualize, then going to the “Insert” tab and choosing the desired chart type. Excel supports various chart types, including bar charts, line charts, pie charts, and more
