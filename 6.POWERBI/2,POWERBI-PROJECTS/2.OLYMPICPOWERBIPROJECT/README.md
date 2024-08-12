@@ -63,4 +63,13 @@ The final analysis included the following visualizations:
 6. **Total Number of Sports**
 
 These insights provide a comprehensive overview of gender representation in the  Olympics.
+----
+## 🌱 Learn & Grow Together
 
+### 📫 Contact Me
+If you'd like to connect, collaborate, or discuss anything related to data analytics, feel free to reach out!
+
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/parimalautade)
+- **GitHub**: [GitHub Profile](https://github.com/ParimalA24-DS)
+
+Let's learn and grow together!
