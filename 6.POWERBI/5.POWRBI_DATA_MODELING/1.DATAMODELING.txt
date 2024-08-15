@@ -1,3 +1,5 @@
 #Data modeling in power bi :
 - Data modelling is the process of diagramming data flows. 
 - When creating a new or alternate database structure, the designer starts with a diagram of how data will flow into and out of the database.
+CHECK THIS LINKFOR DATASETS and power bi 
+ - https://drive.google.com/drive/folders/1Jq4rXgh7E_3WQ71_JZLe5By37GS3eRKG
