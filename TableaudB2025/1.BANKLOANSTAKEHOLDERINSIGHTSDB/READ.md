@@ -84,13 +84,8 @@ We built an **interactive Tableau dashboard** to:
 
 ---
 
-## **📌 8. How to Run This Project Locally?**  
-### **1️⃣ Clone the Repository**  
-```bash
- git clone https://github.com/yourusername/bank-loan-dashboard.git
- cd bank-loan-dashboard
-```
-### **2️⃣ Open Tableau & Load Data**  
+## **📌 8. How to Run This Project ?**  
+### ** Open Tableau & Load Data**  
 - Load `Loan_Stakeholder_Data.xlsx`  
 - Open `.twbx` file in Tableau to explore the dashboard  
 
