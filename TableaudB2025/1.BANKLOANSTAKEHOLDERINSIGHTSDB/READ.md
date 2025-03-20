@@ -15,7 +15,7 @@ We built an **interactive Tableau dashboard** to:
 
 📊 **Live Demo:** [View Tableau Dashboard](#)  
 
-![Dashboard Preview](https://your-image-link.com/dashboard.png)
+![Dashboard Preview][(https://public.tableau.com/app/profile/pari.s8023/viz/STAKHOLDERPERFOMRANCE1/Dashboard1)]
 
 ---
 
