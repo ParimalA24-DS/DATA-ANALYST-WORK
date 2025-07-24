@@ -1,0 +1,205 @@
+Customer_ID,Name,City,Contact_Number,Email,Gender,Address
+C001,Tara Krishnan,Panchkula,+917193971454,mandrati@chad.org,Female,"65/04
+Dhawan Marg, Rajpur Sonarpur 590551"
+C002,Myra Edwin,Bulandshahr,08915420519,yshukla@hotmail.com,Female,"H.No. 78
+Sharaf Ganj
+Indore 928261"
+C003,Jayesh Lanka,Bilaspur,07400208126,kavyabarad@hotmail.com,Male,"H.No. 53, Krishna Ganj, Dhule-346480"
+C004,Tarini Bava,Miryalaguda,07232349928,vsen@hotmail.com,Male,"145
+Sibal, Rourkela-650344"
+C005,Hiran Kaul,Kottayam,02207644242,hanshkapur@buch.biz,Male,"34/168
+Sachar Street
+Bhatpara 002691"
+C006,Rania Mann,Karimnagar,+919363577179,evaswamy@biswas-sekhon.com,Female,"15/89, Dayal Chowk, Rohtak 586046"
+C007,Jayant Kamdar,Berhampore,+918576675504,pcontractor@hotmail.com,Male,"H.No. 501
+Goswami Path, Bhilwara 482554"
+C008,Veer Ray,Chinsurah,7138085704,uthkarshjohal@yahoo.com,Female,"H.No. 589, Gala Circle, Nandyal-774484"
+C009,Ritvik Borah,Madurai,1336765676,daliajivika@yahoo.com,Female,"28/64
+Lanka Marg, Ramgarh 141634"
+C010,Darshit Dave,Kanpur,01608833065,fateh26@hotmail.com,Male,"H.No. 21
+Singhal Path
+Hindupur 170985"
+C011,Lagan Kapoor,Orai,+916173563562,rsidhu@gmail.com,Female,"53/710, Tailor Ganj, Gorakhpur-030540"
+C012,Onkar Mangat,Bilaspur,+919921125624,oorjabassi@wali.com,Male,"H.No. 460, Sankar Ganj
+Tadipatri 227246"
+C013,Manikya Goswami,Mangalore,+912112817503,settytara@gmail.com,Female,"382, Banerjee Ganj
+Patna 002103"
+C014,Indrans Shukla,Panvel,2717671919,rajagopalfateh@dhingra.info,Female,"67/61, Balan Nagar
+Dehri-162882"
+C015,Romil Bajwa,Kolkata,+918664164910,taimurkashyap@halder.com,Female,"890, Sathe Circle
+Moradabad 800838"
+C016,Amani Ganesh,Tenali,08482992702,sumerkaur@yahoo.com,Male,"667
+Som Marg
+Rajkot 238865"
+C017,Advika Dhar,Gangtok,+912738556486,pmaster@deol.com,Male,"80/81, Varghese Chowk, Bidhannagar-928710"
+C018,Eva Vaidya,Nizamabad,+919080029661,drishya20@kapadia.com,Male,"34/29
+Manne Circle, Ahmedabad 929297"
+C019,Amira Sengupta,Danapur,+914513393592,purab20@dhar.com,Male,"77
+Dass Street
+Sasaram-948992"
+C020,Samaira Ganesh,Machilipatnam,01731643700,golesana@varty-gill.com,Male,"12, Khosla Chowk
+Gopalpur-059682"
+C021,Siya Talwar,Mehsana,+915555408563,hsunder@raman.info,Male,"H.No. 617, Brahmbhatt Path, Madanapalle-879728"
+C022,Ivana Rout,Khandwa,+913111711777,adhar@yahoo.com,Male,"24
+Babu Nagar, Khammam 703294"
+C023,Abram Sandhu,Bidhannagar,7196287267,sibalnitya@bhasin.net,Male,"H.No. 13
+Lad Road
+Bhiwandi 874382"
+C024,Jhanvi Chowdhury,Kavali,+910316756360,magarvardaniya@biswas.com,Female,"827, Shere Nagar, Mangalore 084058"
+C025,Ira Bava,Singrauli,+917406193950,rastogizain@yahoo.com,Female,"13/846, Bajaj Road, Nangloi Jat-882740"
+C026,Ira Chahal,Farrukhabad,+918716483532,ayeshathakkar@yahoo.com,Female,"37, Bhasin Path, Deoghar-816439"
+C027,Kashvi Sur,Serampore,03431035116,edwinkeya@gmail.com,Female,"34, Sanghvi Path
+Sikar 774265"
+C028,Hridaan Rajagopalan,Noida,02539728317,indrans49@thaman-chopra.net,Female,"01, Kapur Road, Agra-329913"
+C029,Badal Sathe,Haridwar,+912454360885,lavanya23@yahoo.com,Female,"H.No. 78, Suresh, Hapur-924072"
+C030,Vardaniya Contractor,Sambhal,09972300876,choprakavya@dugar.org,Male,"H.No. 904
+Dave Zila
+Pimpri-Chinchwad 244227"
+C031,Madhup Wable,Sasaram,0135745753,priyansh11@dua-tella.com,Female,"H.No. 69
+Shere
+Durgapur 474507"
+C032,Mannat Anand,Surat,1611365500,advika02@gmail.com,Male,"81/76, Khanna Nagar, Vasai-Virar-913106"
+C033,Suhana Kurian,Indore,5713958095,nbains@hotmail.com,Female,"56/734, Som Marg
+Bhimavaram 598548"
+C034,Hridaan Sood,Bhatpara,06652710577,drishyabalan@yahoo.com,Male,"H.No. 60, Deep Street
+Phusro 320629"
+C035,Ira Sarna,Vellore,+916899648374,zben@cherian.org,Male,"63, Baria Circle
+Siliguri 399443"
+C036,Biju Bajwa,Dibrugarh,+918721850071,choudhryrohan@hotmail.com,Female,"373
+Ganguly Street, Kurnool 041608"
+C037,Aradhya Kumar,Davanagere,1972392634,faiyaz10@yahoo.com,Male,"123, Sagar Road
+Dharmavaram-048740"
+C038,Yakshit Shah,Aizawl,02847411902,kthaker@gmail.com,Female,"H.No. 77
+Kalita Circle, Muzaffarnagar-768793"
+C039,Kaira Bahl,Kamarhati,+918804850295,keerzara@deshpande-sandhu.net,Male,"318
+Chokshi Road, Miryalaguda-997025"
+C040,Hazel Mangat,Pallavaram,+918810621361,aarnakrishna@chokshi.org,Female,"H.No. 07
+Lad Ganj, Jaipur-750706"
+C041,Rati Dhingra,Karaikudi,00625408216,nirvisekhon@yahoo.com,Male,"71/531
+Kibe Circle, Indore-971559"
+C042,Eshani Sharma,Ajmer,+916843169694,waliavaibhav@yahoo.com,Male,"85/523
+Raval Path, Bhind-188340"
+C043,Yasmin Sheth,Vellore,02544865070,aliavasa@chakraborty-koshy.com,Female,"80
+Vala Ganj, Dindigul-437862"
+C044,Seher Mann,Agra,09843970658,vardaniyakaran@krishnamurthy.com,Male,"H.No. 146, Ram Chowk
+Meerut-776118"
+C045,Divit Mahajan,Maheshtala,06789522856,krishchoudhury@kakar.com,Female,"25/685, Kannan Street, Erode-345276"
+C046,Tara Kannan,Guna,+917543187237,madanheer@gmail.com,Male,"H.No. 26
+Khurana, Kharagpur-183176"
+C047,Bhamini Ravi,Jorhat,+910798274175,ramachandranraghav@uppal-bhandari.com,Male,"56, Tak Street, Giridih 114150"
+C048,Aradhya Kale,Guntakal,07979926231,gkhanna@tripathi.biz,Male,"H.No. 60, Dhingra Marg
+Jalna 036174"
+C049,Aarush Balasubramanian,Imphal,01436426958,divijsheth@doshi.com,Female,"60, Loke Circle, Kadapa 528564"
+C050,Chirag Srinivas,Imphal,+911157961919,xmand@hotmail.com,Female,"80/683
+Gandhi Zila
+Amravati-523734"
+C051,Aradhya Batta,Kota,+911200621501,diyakapadia@gmail.com,Female,"25
+Vaidya Street, Deoghar-807286"
+C052,Vardaniya Apte,Dhanbad,05846932069,ysoman@thaman.com,Male,"H.No. 78, Tara Nagar
+Narasaraopet-260778"
+C053,Kismat Kapadia,Bharatpur,+918068004996,aniruddhbhatia@apte-ramaswamy.net,Female,"592, Sachar Circle
+Thoothukudi 513426"
+C054,Umang Ahuja,Bidhannagar,07271590783,saksham09@hotmail.com,Female,"06/32
+Kade
+Mehsana-061743"
+C055,Umang Luthra,Imphal,02007986762,manikya74@bava.com,Male,"H.No. 728, Datta Chowk
+Kumbakonam-380227"
+C056,Pihu Choudhury,Haridwar,9732644810,dhanuksastry@yahoo.com,Male,"H.No. 029, Grover
+Kadapa-492513"
+C057,Zain Hegde,Delhi,8736997123,faiyazsagar@thakur-chakrabarti.com,Female,"63/17
+Bal Circle
+Dehradun 365978"
+C058,Charvi Kanda,Guntakal,+919771604920,miraan05@gmail.com,Male,"25
+Srinivasan Ganj, Mira-Bhayandar-341661"
+C059,Nirvi Wagle,Kalyan-Dombivli,5869821393,mandalbhamini@gmail.com,Male,"77
+Walla Ganj, Ambarnath-616114"
+C060,Riya Wagle,Satara,00214103009,veercheema@khosla.com,Male,"H.No. 775
+Sha Circle
+Mumbai 290110"
+C061,Akarsh Ramesh,Kavali,04318554567,tsaini@johal-char.com,Female,"078, Ghose Nagar, Bikaner 211920"
+C062,Inaaya  Sarraf,Nagpur,+915915082470,kotharilakshay@cherian.com,Male,"78/08
+Dyal Ganj
+Satara-877913"
+C063,Arhaan Ahluwalia,Jamnagar,05287021467,pihu31@edwin-bawa.com,Male,"70/415
+Sarna Road, Junagadh-305320"
+C064,Indrajit Kale,Srikakulam,+916181058210,sabharwalmamooty@tella.com,Male,"191
+Bera Path, Bhimavaram 502334"
+C065,Badal Vora,North Dumdum,09753056313,kbobal@hotmail.com,Male,"413
+Ram Circle, Dhanbad-458174"
+C066,Eshani Buch,Malegaon,07436178055,traval@ratta-bumb.net,Female,"209
+Lad Street, Ludhiana-431855"
+C067,Eva Sankaran,Anand,0407409251,zdhar@gmail.com,Male,"538
+Doctor Street, Machilipatnam 092427"
+C068,Ritvik Garde,Kalyan-Dombivli,+913719858588,parinaaz89@varty-gaba.com,Male,"59/845, Kade Path, Barasat 294473"
+C069,Hunar Tripathi,Madhyamgram,01440411271,gabainaaya@chhabra.info,Female,"H.No. 637
+Walla Zila, Begusarai 750201"
+C070,Emir Gokhale,Bhatpara,3859920805,emirlala@sethi-kari.com,Male,"49/10
+Sengupta Marg, Madhyamgram 629284"
+C071,Purab Sheth,Tiruppur,08410472405,suhana89@yahoo.com,Male,"H.No. 12
+Dua Zila, Thrissur 303124"
+C072,Charvi Karnik,Hyderabad,7573085232,mishti69@cheema.info,Male,"99/790
+Subramanian Chowk, Bhagalpur 125926"
+C073,Zeeshan Tailor,Parbhani,+918037721297,vardaniya27@yahoo.com,Male,"63/76, Karan Street
+Kanpur 487263"
+C074,Vanya Apte,Sultan Pur Majra,+919182523205,gdoshi@gmail.com,Female,"509, Shah Road, Medininagar 212721"
+C075,Yashvi Bansal,Aligarh,+914513765238,indranilsastry@gmail.com,Female,"62, Dash Street
+Pondicherry-945886"
+C076,Oorja Dayal,Gaya,+916936516442,indrajit78@balay-ravi.com,Female,"49
+Sami
+Dibrugarh-768751"
+C077,Gokul Ahluwalia,Panchkula,+910413737551,khalsatarini@bora.com,Female,"645, Grewal Street, Bardhaman-621911"
+C078,Jivika Rajan,Bhubaneswar,3005266310,hunar08@hotmail.com,Female,"67
+Cheema
+Bardhaman 968232"
+C079,Vedika Sankaran,Bhilai,07606054646,advikakrishnan@hotmail.com,Female,"89
+Srivastava Circle
+Solapur 947664"
+C080,Mohanlal Garde,Bhopal,08448890371,shroffzaina@hotmail.com,Male,"80/990
+Yogi Road
+Anantapuram-218176"
+C081,Kaira Ramachandran,Ratlam,4987395025,baradnirvi@yahoo.com,Male,"H.No. 717
+Warrior Circle
+Etawah-124622"
+C082,Anya Chaudhari,Ahmednagar,0813770782,subramanianojas@gmail.com,Female,"64/161, Kaur Ganj, Kadapa 257529"
+C083,Aaryahi Sodhi,Raurkela Industrial Township,+912690208110,devanromil@hotmail.com,Male,"H.No. 256
+Sami Street, Lucknow-283322"
+C084,Anahita Shankar,Tiruchirappalli,+912205603376,jchada@hotmail.com,Male,"537
+Bahl Nagar
+Tinsukia 000008"
+C085,Bhamini Johal,Raipur,+913129106402,prisha85@gaba.com,Male,"53/88, Soni Chowk
+Etawah-422592"
+C086,Ivana Amble,Purnia,09628920018,sundarampari@garg-khurana.biz,Female,"54/216, Tak Ganj
+Mangalore 180959"
+C087,Rania Bhatt,North Dumdum,2112404207,dishanithaker@dey-choudhry.info,Female,"H.No. 782
+Dey Circle
+Jalna 640789"
+C088,Shalv Kulkarni,Khora ,+919113488461,uthkarsh12@yahoo.com,Female,"H.No. 82, Kala Road, Moradabad-953360"
+C089,Oorja Dey,Nellore,+917264144428,shanaya87@gmail.com,Female,"91, Handa Circle
+Baranagar-841504"
+C090,Drishya De,Anantapuram,03327374841,kakarazad@sura.com,Female,"12, Wali Ganj
+Secunderabad 891177"
+C091,Adira Rajan,New Delhi,+915525478357,indrans79@gmail.com,Female,"H.No. 85
+Bora Road
+Rajpur Sonarpur-156686"
+C092,Zoya Mani,Dibrugarh,+918918356963,obose@gmail.com,Male,"H.No. 319
+Mandal Ganj, Vijayawada-709890"
+C093,Mamooty Bawa,Tumkur,+912783169130,veer55@chaudhari.net,Male,"499
+Apte Street
+Gorakhpur 610533"
+C094,Raghav Babu,Deoghar,+914638480067,shenoynirvaan@chawla.com,Female,"83/108
+Goyal Chowk
+Bhusawal-294899"
+C095,Mahika Cherian,Warangal,2769457161,pgala@yahoo.com,Female,"765
+Srinivasan Ganj
+Gangtok-960690"
+C096,Kavya Reddy,Medininagar,+918680724565,balakrishnanzaina@gmail.com,Male,"88/80
+Sheth Chowk, Dewas 052601"
+C097,Nakul Randhawa,Sri Ganganagar,0456900126,tlall@ramanathan.info,Female,"376
+Tiwari Zila, Munger-178543"
+C098,Navya Golla,Cuttack,+914461213936,tellamadhup@bhatt-bhasin.info,Male,"910
+Rastogi Circle, Tiruppur 102771"
+C099,Ranbir Loyal,Dhanbad,+913621448305,reyanshghosh@rajagopalan.com,Female,"496
+Kumer Zila
+Raurkela Industrial Township-618990"
+C100,Pranay Chaudhary,Phagwara,+919478540370,prisha77@loke.org,Female,"H.No. 58
+Sem Street, Amravati 316691"
