@@ -1,5 +1,7 @@
-# 🌸 Ferns & Petals Sales Dashboard Project | Excel Analytics 
-Welcome! This is a **real-time sales analysis project** built using **Microsoft Excel only** 
+# Ferns & Petals Sales Dashboard Project | Excel Analytics 
+A real-time interactive Excel dashboard that uncovers key business insights for India's top gifting brand.
+
+![Ferns & Petals Sales Dashboard](https://github.com/ParimalA24-DS/DATA-ANALYST-WORK/blob/main/4.MICROSFT-EXCEL-DATA-ANALYST/EXCEL-PROJECT-2025/2.Sales_Analytics%3AFern%26Petals2025/FERN%26PETALPROJECTFILES/FNP_SALESDB2025.PNG?raw=true)
 
 ## 📌 About the Company  
 **Ferns & Petals** is one of India’s top gifting companies.  
