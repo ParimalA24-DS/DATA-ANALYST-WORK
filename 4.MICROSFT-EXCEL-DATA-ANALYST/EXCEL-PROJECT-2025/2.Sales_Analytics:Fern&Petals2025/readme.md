@@ -73,7 +73,8 @@ They deliver flowers, cakes, and gifts across India during festivals like **Diwa
 ---
 
 ## 🎥 Watch the Project  
-▶️ **YouTube Video**: *[Coming Soon]*  
+▶️ **📽️ Watch Full Project Walkthrough**:  
+[ Click here to watch the full demo video](https://github.com/ParimalA24-DS/DATA-ANALYST-WORK/blob/main/4.MICROSFT-EXCEL-DATA-ANALYST/EXCEL-PROJECT-2025/2.Sales_Analytics%3AFern%26Petals2025/FERN%26PETALPROJECTFILES/EXCELPROEJCT1_2025.mp4?raw=true) 
 📁 **Project Files**: [Click Here](https://github.com/ParimalA24-DS/DATA-ANALYST-WORK/tree/main/4.MICROSFT-EXCEL-DATA-ANALYST/EXCEL-PROJECT-2025/2.Sales_Analytics%3AFern%26Petals2025/FERN%26PETALPROJECTFILES)
 
 
