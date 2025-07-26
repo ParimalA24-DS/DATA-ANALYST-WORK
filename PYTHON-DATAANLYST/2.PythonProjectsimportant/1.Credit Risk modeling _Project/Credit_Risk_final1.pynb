@@ -1,0 +1,52 @@
+# Credit Risk Modeling Project
+
+# Step 1: Import necessary libraries
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+import warnings
+warnings.filterwarnings('ignore')
+
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import classification_report, confusion_matrix
+
+# Step 2: Load the dataset from Google Drive path
+file_path = '/content/drive/MyDrive/Credit Risk 2025/loan_data.csv'
+df = pd.read_csv(file_path)
+
+# Step 3: Display first few rows of data to understand structure
+print(df.head())
+
+# Step 4: Basic info and null values check
+print(df.info())
+print(df.isnull().sum())
+
+# Step 5: Clean 'emp_length' if exists
+if 'emp_length' in df.columns:
+    def clean_emp_length(val):
+        if pd.isnull(val):
+            return np.nan
+        if val == '10+ years':
+            return 10
+        if val == '< 1 year':
+            return 0
+        return int(val.strip().split()[0])
+
+    df['emp_length_clean'] = df['emp_length'].apply(clean_emp_length)
+
+# Step 6: Convert loan_status to binary target
+# 'Fully Paid' -> 0 (low risk), 'Charged Off' -> 1 (high risk)
+df['loan_status'] = df['loan_status'].replace({'Fully Paid': 0, 'Charged Off': 1})
+
+# Step 7: Drop columns with too many missing values (optional)
+df = df.dropna(axis=1, thresh=len(df) * 0.8)  # Keep columns with at least 80% data
+
+# Step 8: Fill remaining nulls with mean for numeric or mode for categorical
+for col in df.columns:
+    if df[col].dtype == 'object':
+        df[col].fillna(df[col].mode()[0], inplace=True)
+    else:
+        df[col].fillna(df[col].mean(), inplace=True)
+
