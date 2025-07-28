@@ -1,6 +1,6 @@
 ## 💳 Credit Risk Modeling using Machine Learning
 
-This project is focused on building a **classification model** to predict whether a credit applicant is likely to default or not. It includes data preprocessing, feature selection, model building (using XGBoost), evaluation using confusion matrix, and model**
+This project is focused on building a **classification model** to predict whether a credit applicant is likely to default or not. It includes data preprocessing, feature selection, model building (using XGBoost), evaluation using confusion matrix**
 ---
 
 ## 🚀 Project Goals
